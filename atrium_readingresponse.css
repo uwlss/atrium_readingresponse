@@ -1,0 +1,11 @@
+#features-menu li a.icon-readingresponse span.icon {
+  background:url(images/icon40.png) no-repeat;
+}
+
+.feature .feature-atrium_readingresponse {
+  background:transparent url(images/icon20.png) no-repeat;
+}
+
+.feature-atrium_readingresponse {
+  background:url(images/icon20.png) no-repeat !important;
+}
